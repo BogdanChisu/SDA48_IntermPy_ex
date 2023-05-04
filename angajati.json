@@ -1,0 +1,17 @@
+[
+  {
+    "nume": "Ion Ionescu",
+    "varsta": 32,
+    "salar": 5000
+  },
+  {
+    "nume": "Mihai Ionescu",
+    "varsta": 35,
+    "salar": 5500
+  },
+  {
+    "nume": "Ioana Ionescu",
+    "varsta": 33,
+    "salar": 5600
+  }
+]

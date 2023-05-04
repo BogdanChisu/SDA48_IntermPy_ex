@@ -1,0 +1,15 @@
+[{
+        "nume": "cravata",
+        "pret": 109,
+        "cantitate": 3
+},
+{
+        "nume": "camasa",
+        "pret": 300,
+        "cantitate": 5
+},
+{
+        "nume": "pantalon",
+        "pret": 250,
+        "cantitate": 7
+}]
